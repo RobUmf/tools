@@ -1,0 +1,4 @@
+source=/media/robumf/Seagate Basic/UltraStar_Songs_Backup
+internal_buffer=/media/robumf/1.5nvme61/0buffer
+final_dest=/media/robumf/Sea_Media/USDX_MLK
+max_chunk=150G
