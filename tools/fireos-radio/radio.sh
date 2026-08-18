@@ -38,7 +38,7 @@ options=(
 PS3="Select a station number (or choose Quit): "
 
 echo "======================================"
-echo "    Equestrian Radio Launcher Menu   "
+echo "    Equestria Radio Launcher Menu   "
 echo "======================================"
 echo "Session Duration: $MINUTES minutes"
 echo "Cache Settings: ${CACHE_SECS}s / ${BUFFER_BYTES}"
