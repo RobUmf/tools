@@ -69,8 +69,8 @@ select opt in "${options[@]%%|*}" "Quit"; do
     echo "[System] Requesting Android Wake Lock..."
     termux-wake-lock
     
-    # Build the mpv command securely using a Bash array
-    # Build the mpv command securely using a Bash array
+    # mpv command
+    
     cmd=(
         mpv
         --ao=opensles
